@@ -1,0 +1,307 @@
+------------------
+System Information
+------------------
+Time of this report: 6/2/2016, 12:35:02
+       Machine name: NINJA-PC
+   Operating System: Windows 7 Ultimate 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_gdr.130828-1532)
+           Language: Portuguese (Regional Setting: Portuguese)
+System Manufacturer: Hewlett-Packard
+       System Model: HP Compaq 6000 Pro SFF PC
+               BIOS: Default System BIOS
+          Processor: Intel(R) Core(TM)2 Quad CPU    Q8400  @ 2.66GHz (4 CPUs), ~2.7GHz
+             Memory: 4096MB RAM
+Available OS Memory: 4028MB RAM
+          Page File: 2040MB used, 6012MB available
+        Windows Dir: C:\Windows
+    DirectX Version: DirectX 11
+DX Setup Parameters: Not found
+   User DPI Setting: Using System DPI
+ System DPI Setting: 96 DPI (100 percent)
+    DWM DPI Scaling: Disabled
+     DxDiag Version: 6.01.7601.17514 32bit Unicode
+  DxDiag Previously: Crashed in DirectSound (stage 3) & DirectShow (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+
+------------
+DxDiag Notes
+------------
+      Display Tab 1: No problems found.
+        Sound Tab 1: No problems found.
+          Input Tab: No problems found.
+
+--------------------
+DirectX Debug Levels
+--------------------
+Direct3D:    0/4 (retail)
+DirectDraw:  0/4 (retail)
+DirectInput: 0/5 (retail)
+DirectMusic: 0/5 (retail)
+DirectPlay:  0/9 (retail)
+DirectSound: 0/5 (retail)
+DirectShow:  0/6 (retail)
+
+---------------
+Display Devices
+---------------
+          Card name: AMD Radeon R7 200 Series
+       Manufacturer: Advanced Micro Devices, Inc.
+          Chip type: AMD Radeon Graphics Processor (0x6613)
+           DAC type: Internal DAC(400MHz)
+         Device Key: Enum\PCI\VEN_1002&DEV_6613&SUBSYS_72401682&REV_00
+     Display Memory: 2765 MB
+   Dedicated Memory: 1008 MB
+      Shared Memory: 1757 MB
+       Current Mode: 1366 x 768 (32 bit) (60Hz)
+       Monitor Name: Monitor Genérico PnP
+      Monitor Model: HP L185b
+         Monitor Id: HWP2898
+        Native Mode: 1366 x 768(p) (59.790Hz)
+        Output Type: HD15
+        Driver Name: aticfx64.dll,aticfx64.dll,aticfx64.dll,aticfx32,aticfx32,aticfx32,atiumd64.dll,atidxx64.dll,atidxx64.dll,atiumdag,atidxx32,atidxx32,atiumdva,atiumd6a.cap,atitmm64.dll
+Driver File Version: 8.17.0010.1452 (English)
+     Driver Version: 16.150.2211.0
+        DDI Version: 11
+       Driver Model: WDDM 1.1
+  Driver Attributes: Final Retail
+   Driver Date/Size: 5/12/2016 17:09:20, 1517360 bytes
+        WHQL Logo'd: Yes
+    WHQL Date Stamp: 
+  Device Identifier: {D7B71EE2-2553-11CF-9E70-4A52BEC2C535}
+          Vendor ID: 0x1002
+          Device ID: 0x6613
+          SubSys ID: 0x72401682
+        Revision ID: 0x0000
+ Driver Strong Name: oem7.inf:ATI.Mfg.NTamd64.6.1:ati2mtag_R501:16.150.2211.0:pci\ven_1002&dev_6613
+     Rank Of Driver: 00E62001
+        Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
+   Deinterlace Caps: {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+       D3D9 Overlay: Not Supported
+            DXVA-HD: Not Supported
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+
+-------------
+Sound Devices
+-------------
+            Description: Alto-falantes (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0662&SUBSYS_103C3048&REV_1001
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.7746 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 5/13/2016 09:06:47, 4803840 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Mouse
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Teclado
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+
+-----------
+USB Devices
+-----------
++ USB Root Hub
+| Vendor/Product ID: 0x8086, 0x3A65
+| Matching Device ID: usb\root_hub
+| Service: usbhub
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ Teclado Padrão PS/2
+| Matching Device ID: *pnp0303
+| Service: i8042prt
+| 
++ Terminal Server Keyboard Driver
+| Matching Device ID: root\rdp_kbd
+| Upper Filters: kbdclass
+| Service: TermDD
+| 
++ Mouse compatível com PS/2
+| Matching Device ID: *pnp0f13
+| Service: i8042prt
+| 
++ Terminal Server Mouse Driver
+| Matching Device ID: root\rdp_mou
+| Upper Filters: mouclass
+| Service: TermDD
+
+------------------------
+Disk & DVD/CD-ROM Drives
+------------------------
+      Drive: C:
+ Free Space: 197.7 GB
+Total Space: 301.2 GB
+File System: NTFS
+      Model: SAMSUNG HD321HJ ATA Device
+
+      Drive: D:
+      Model: hp CDDVDW TS-H653R ATA Device
+     Driver: c:\windows\system32\drivers\cdrom.sys, 6.01.7601.17514 (Portuguese), , 0 bytes
+
+--------------
+System Devices
+--------------
+     Name: Intel(R) ICH10 Family USB Enhanced Host Controller - 3A6A
+Device ID: PCI\VEN_8086&DEV_3A6A&SUBSYS_3048103C&REV_02\3&21436425&0&EF
+   Driver: n/a
+
+     Name: Controlador de canal duplo padrão PCI IDE
+Device ID: PCI\VEN_8086&DEV_3A06&SUBSYS_3048103C&REV_02\3&21436425&0&FD
+   Driver: n/a
+
+     Name: Intel(R) 82567LM-3 Gigabit Network Connection
+Device ID: PCI\VEN_8086&DEV_10DE&SUBSYS_3048103C&REV_02\3&21436425&0&C8
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family USB Universal Host Controller - 3A69
+Device ID: PCI\VEN_8086&DEV_3A69&SUBSYS_3048103C&REV_02\3&21436425&0&D2
+   Driver: n/a
+
+     Name: Controlador de canal duplo padrão PCI IDE
+Device ID: PCI\VEN_8086&DEV_3A00&SUBSYS_3048103C&REV_02\3&21436425&0&FA
+   Driver: n/a
+
+     Name: Controlador de High Definition Audio
+Device ID: PCI\VEN_1002&DEV_AAB0&SUBSYS_AAB01682&REV_00\4&2EC8EC69&0&0108
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family USB Universal Host Controller - 3A68
+Device ID: PCI\VEN_8086&DEV_3A68&SUBSYS_3048103C&REV_02\3&21436425&0&D1
+   Driver: n/a
+
+     Name: Porta serial PCI
+Device ID: PCI\VEN_8086&DEV_2E17&SUBSYS_3048103C&REV_03\3&21436425&0&1B
+   Driver: n/a
+
+     Name: AMD Radeon R7 200 Series
+Device ID: PCI\VEN_1002&DEV_6613&SUBSYS_72401682&REV_00\4&2EC8EC69&0&0008
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family USB Universal Host Controller - 3A67
+Device ID: PCI\VEN_8086&DEV_3A67&SUBSYS_3048103C&REV_02\3&21436425&0&D0
+   Driver: n/a
+
+     Name: Controlador de canal duplo padrão PCI IDE
+Device ID: PCI\VEN_8086&DEV_2E16&SUBSYS_3048103C&REV_03\3&21436425&0&1A
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family PCI Express Root Port 2 - 3A72
+Device ID: PCI\VEN_8086&DEV_3A72&SUBSYS_3048103C&REV_02\3&21436425&0&E1
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family USB Universal Host Controller - 3A66
+Device ID: PCI\VEN_8086&DEV_3A66&SUBSYS_3048103C&REV_02\3&21436425&0&EA
+   Driver: n/a
+
+     Name: Controlador de comunicação PCI simples
+Device ID: PCI\VEN_8086&DEV_2E14&SUBSYS_3048103C&REV_03\3&21436425&0&18
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family PCI Express Root Port 1 - 3A70
+Device ID: PCI\VEN_8086&DEV_3A70&SUBSYS_3048103C&REV_02\3&21436425&0&E0
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family USB Universal Host Controller - 3A65
+Device ID: PCI\VEN_8086&DEV_3A65&SUBSYS_3048103C&REV_02\3&21436425&0&E9
+   Driver: n/a
+
+     Name: Intel(R) 4 Series Chipset PCI Express Root Port - 2E11
+Device ID: PCI\VEN_8086&DEV_2E11&SUBSYS_3048103C&REV_03\3&21436425&0&08
+   Driver: n/a
+
+     Name: Controlador de High Definition Audio
+Device ID: PCI\VEN_8086&DEV_3A6E&SUBSYS_3048103C&REV_02\3&21436425&0&D8
+   Driver: n/a
+
+     Name: Intel(R) ICH8 Family USB Universal Host Controller - 2835
+Device ID: PCI\VEN_8086&DEV_3A64&SUBSYS_3048103C&REV_02\3&21436425&0&E8
+   Driver: n/a
+
+     Name: Intel(R) 4 Series Chipset Processor to I/O Controller - 2E10
+Device ID: PCI\VEN_8086&DEV_2E10&SUBSYS_3048103C&REV_03\3&21436425&0&00
+   Driver: n/a
+
+     Name: Intel(R) ICH10 Family USB Enhanced Host Controller - 3A6C
+Device ID: PCI\VEN_8086&DEV_3A6C&SUBSYS_3048103C&REV_02\3&21436425&0&D7
+   Driver: n/a
+
+     Name: Intel(R) ICH10D LPC Interface Controller - 3A1A
+Device ID: PCI\VEN_8086&DEV_3A1A&SUBSYS_3048103C&REV_02\3&21436425&0&F8
+   Driver: n/a
+
+     Name: Intel(R) 82801 PCI Bridge - 244E
+Device ID: PCI\VEN_8086&DEV_244E&SUBSYS_3048103C&REV_A2\3&21436425&0&F0
+   Driver: n/a
+
+---------------
+EVR Power Information
+---------------
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+  Quality Flags: 2576
+    Enabled:
+    Force throttling
+    Allow half deinterlace
+    Allow scaling
+    Decode Power Usage: 100
+  Balanced Flags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 50
+  PowerFlags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 0
